@@ -1,2 +1,2 @@
 # ForYourEyesOnly
-This repository demonstrate the use of the Applitools Eyes Visual Testing.
+This repository demonstrates the use of the Applitools Eyes Visual Testing.
